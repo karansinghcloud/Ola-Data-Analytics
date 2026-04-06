@@ -1,4 +1,3 @@
-
 # Ola Data Analytics — Bengaluru (Oct 2025) (Synthetic)
 
 **One-line:** Synthetic Ola-like trips dataset for Bengaluru — 100k rows for analytics, SQL practice, and Power BI dashboards.
